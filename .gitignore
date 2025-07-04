@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+config.py
+.env
+.env/
+*.txt
+*.app
+.vscode/
+.idea/
+Thumbs.db
+*.sqlite3
+*.db
+*.json
+
+
